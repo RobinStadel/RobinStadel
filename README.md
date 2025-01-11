@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hi, I’m Robin Stadel
+- I’m interested in coding and circuits
+- I’m currently learning Python
+- I'm originally from Canada
+- I'm a Sophmore in Computer Engineering
+- I chose my major because I have always been interested in computers
+- A fun fact about me is: I have dual citizenship
+- What do I want to learn from EE 205?  I want to learn C and C++
+- A book or movie I'd recommend is: Milkweed
